@@ -1,2 +1,2 @@
 # sn_analysis
-Data &amp; code from experimental snare surveys
+Data & code from experimental snare surveys
